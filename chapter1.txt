@@ -1,0 +1,7 @@
+get and post requests in browser.
+We exchage data by these requests.
+This data exchange can be very useful.
+We can pull data from any site and organise or manipulate it according to our needs.
+
+At the end we will make an application which uses ajax to pull data from 3 different sites and make a very cool website which shows that data in a desired way.
+
